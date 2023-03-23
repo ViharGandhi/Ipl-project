@@ -1,0 +1,272 @@
+CSK
+
+MS Dhoni (c)	                        Batsman/Wicket-keeper	12 Crore
+Devon Conway	                        Batsman	1 crore
+Ruturaj Gaikwad					Batsman	6 Crore
+Ambati Rayudu					Batsman/Wicket-keeper	6.75 crore
+Subhranshu Senapati				Batsmen	20 lakh
+Moeen Ali						All-Rounder	8 Crore
+Shivam Dube						All-Rounder	4 crore
+Rajvardhan Hangargekar				Bowler	1.5 crore
+Dwaine Pretorius					All-Rounder	50 lakh
+Mitchell Santner					Bowler	1.9 crore
+Ravindra Jadeja					All-Rounder	16 Crore
+Tushar Deshpande					Bowler	20 lakh
+Mukesh Chowdhary					Bowler	20 lakh
+Matheesha Pathirana				Bowler	20 lakh
+Simarjeet Singh					Bowler	20 lakh
+Deepak Chahar					Bowler	14 crore
+Prashant Solanki					Bowler	1.2 crore
+Maheesh Theekshana				Bowler	70 lakh
+Ajinkya Rahane					Batsman	50 lakh
+Ben Stokes						All-Rounder	16.25 crore
+Shaik Rasheed					Batsman	20 lakh
+Nishant Sindhu					All-Rounder	60 lakh
+Sisanda Magala					Bowler	1 crore
+Ajay Mandal						All-Rounder	20 lakh
+Bhagath Varma					All-Rounder	20 lakh
+
+MI
+
+Rohit Sharma					Batsman	16 Crore
+Jasprit Bumrah					Bowler	12 Crore
+Suryakumar Yadav					Batsman	8 Crore
+Ishan Kishan					Batsman	15.25 crore
+Dewald Brevis					Batsman	3 crore
+Tilak Varma						Batsman	1.7 crore
+Jofra Archer					Bowler	8 crore
+Tim David						All-Rounder	8.25 crore
+Mohd Arshad Khan					Batsman	20 lakh
+Ramandeep Singh					Batsman	20 lakh
+Hrithik Shokeen					All-Rounder	20 lakh
+Arjun Tendulkar					Bowler	30 lakh
+Tristan Stubbs					Batsman	20 lakh
+Kumar Kartikeya					Bowler	20 lakh
+Jason Behrendorff					Bowler	75 Lakh
+Akash Madhwal					Bowler	20 lakh
+Cameron Green					All-Rounder	17.5 crore
+Jhye Richardson					Bowler	1.5 crore
+Piyush Chawla					All-Rounder	50 lakh
+Duan Jansen						Bowler	20 lakh
+Vishnu Vinod					Wicket-keeper	20 lakh
+Shams Mulani					All-Rounder	20 lakh
+Nehal Wadhera					All-Rounder	20 lakh
+Raghav Goyal					Bowler	20 lakh
+
+RR
+
+Sanju Samson					Batsman/Wicket-keeper	14 Crore
+Jos Buttler						Batsman	10 Crore
+Yashasvi Jaiswal					Batsman	4 Crore
+R. Ashwin						Bowler	5 crore
+Trent Boult						Bowler	8 crore
+Shimron Hetmyer					Batsman	8.5 crore
+Devdutt Padikkal					Batsman	7.75 crore
+Riyan Parag						All-Rounder	3.8 crore
+KC Cariappa						Bowler	30 lakh
+Sandeep Sharma					Bowler	50 lakh
+Yuzvendra Chahal					Bowler	6.5 crore
+Navdeep Saini					Bowler	2.6 crore
+Obed McCoy						Bowler	75 lakh
+Kuldeep Sen						Bowler	20 lakh
+Dhruv Jurel						Batsman/Wicket-keeper	20 lakh
+Kuldip Yadav					Bowler	20 lakh
+Jason Holder					All-Rounder	5.75 crore
+Donovan Ferreira					All-Rounder	50 lakh
+Kunal Rathore					Wicket-keeper	20 lakh
+Adam Zampa						Bowler	1.5 crore
+KM Asif						Bowler	30 lakh
+Murugan Ashwin					Bowler	20 lakh
+Akash Vashisht					All-Rounder	20 lakh
+Abdul PA						All-Rounder	20 lakh
+Joe Root						Batsman	1 crore
+
+GT
+
+Hardik Pandya (C)					All-Rounder	15 Crore
+Shubman Gill					Batsman	7 Crore
+David Miller					Batsman	3 crore
+Abhinav Manohar					Batsman	2.6 crore
+Sai Sudharsan					Batsman	20 lakh
+Wriddhiman Saha					Batsman/Wicket-keeper	1.9 crore
+Matthew Wade					Batsman/Wicket-keeper	2.4 crore
+Rashid Khan						Bowler	15 Crore
+Rahul Tewatia					All-Rounder	9 crore
+Vijay Shankar					All-Rounder	1.4 crore
+Mohammed Shami					Bowler	6.25 crore
+Alzarri Joseph					Bowler	2.4 crore
+Yash Dayal						Bowler	3.2 crore
+Pradeep Sangwan					Bowler	20 lakh
+Darshan Nalkande					All-Rounder	20 lakh
+Jayant Yadav					All-Rounder	1.7 crore
+R Sai Kishore					Bowler	3 crore
+Noor Ahmad						Bowler	30 lakh
+Kane Williamson					Batsman	2 crore
+Odean Smith						All-Rounder	50 lakh
+KS Bharat						Wicket-keeper	1.2 crore
+Shivam Mavi						All-Rounder	6 crore
+Urvil Patel						Wicket-keeper	20 lakh
+Joshua Little					Bowler	4.4 crore
+Mohit Sharma					Bowler	50 lakh
+
+RCB
+
+Virat Kohli						Batsman	15 Crore
+Glenn Maxwell					All-Rounder	11 Crore
+Mohammad Siraj					Bowler	7 Crore
+Faf Du Plessis					Batsman	7 crore
+Harshal Patel					Bowler	10.75 crore
+Wanindu Hasaranga					Bowler	10.75 crore
+Dinesh Karthik					Batsman/Wicket-keeper	5.5 crore
+Shahbaz Ahemad					All-Rounder	2.4 crore
+Rajat Patidar					Batsman	20 Lakh
+Anuj Rawat						Batsman/Wicket-keeper	3.4 crore
+Akash Deep						Bowler	20 lakh
+Josh Hazlewood					Bowler	7.75 crore
+Mahipal Lomror					All-Rounder	95 lakh
+Finn Allen						Batsman/Wicket-keeper	80 lakh
+Suyash Prabhudessai				Batsman	30 lakh
+Karn Sharma						Batsman	50 lakh
+Siddharth Kaul					Batsman	75 lakh
+David Willey					Bowler	2 crore
+Reece Topley					Bowler	1.9 crore
+Himanshu Sharma					Bowler	20 lakh
+Micheal Bracewell					All-Rounder	1 crore
+Manoj Bhandage					All-Rounder	20 lakh
+Rajan Kumar						Bowler	70 lakh
+Avinash Singh					Bowler	60 lakh
+Sonu Yadav						All-Rounder	20 lakh
+
+LSG
+
+KL Rahul						Batsman	15 Crore
+Marcus Stoinis					All-Rounder	11 Crore
+Ravi Bishnoi					Bowler	4 Crore
+Quinton De Kock					Batsman/Wicket-keeper	6.75 crore
+Deepak Hooda					All-Rounder	5.75 crore
+Krunal Pandya					All-Rounder	8.25 crore
+Avesh Khan						Bowler	10 crore
+Mark Wood						Bowler	7.5 crore
+K Gowtham						All-Rounder	90 lakh
+Manan Vohra						Batsman	20 lakh
+Mohsin Khan						Bowler	20 lakh
+Ayush Badoni					All-Rounder	20 lakh
+Kyle Mayers						All-Rounder	50 lakh
+Karan Sharma					All-Rounder	20 lakh
+Mayank Yadav					Bowler	20 lakh
+Nicholas Pooran					Wicket-keeper	16 crore
+Jaydev Unadkat					Bowler	50 lakh
+Yash Thakur						Bowler	45 lakh
+Romario Shepherd					All-Rounder	50 lakh
+Daniel Sams						All-Rounder	75 lakh
+Amit Mishra						Bowler	50 lakh
+Prerak Mankad					All-Rounder	20 lakh
+Swapnil Singh					Bowler	20 lakh
+Naveen ul Haq					Bowler	50 lakh
+Yudhvir Charak					All-Rounder	20 lakh
+
+DC
+
+Rishabh Pant					Batsman/Wicket-keeper	16 Crore
+Axar Patel						All-Rounder	9 Crore
+Prithvi Shaw					Batsman	7.5 Crore
+Anrich Nortje					Bowler	6.5 Crore
+David Warner					Batsman	6.25 crore
+Mitchell Marsh					All-Rounder	6.5 crore
+Sarfaraz Khan					Batsman	20 lakh
+Kamlesh Nagarkoti					Bowler	1.1 crore
+Mustafizur Rahman					Bowler	2 crore
+Kuldeep Yadav					Bowler	2 crore
+Khaleel Ahmed					Bowler	5.25 crore
+Chetan Sakariya					Bowler	4.2 crore
+Lalit Yadav						All-Rounder	65 lakh
+Ripal Patel						All-Rounder	20 lakh
+Yash Dhull						Batsman	50 lakh
+Rovman Powell					Batsman	2.8 crore
+Pravin Dubey					Bowler	50 lakh
+Lungi Ngidi						Bowler	50 lakh
+Vicky Ostwal					All-Rounder	20 lakh
+Aman Khan						All-Rounder	20 lakh
+Phil Salt						Wicket-keeper	2 crore
+Ishant Sharma					Bowler	50 lakh
+Mukesh Kumar					Bowler	5.5 crore
+Manish Pandey					Batsman	2.4 crore
+Rilee Rossouw					Batsman	4.6 crore
+
+KKR 
+
+Shreyas Iyer (c)					Batsmen	12.25 crore
+Nitish Rana						Batsmen	8 crore
+Venkatesh Iyer					All-Rounder	8 Crore
+Andre Russell					All-Rounder	12 Crore
+Sunil Narine					All-Rounder	6 Crore
+Umesh Yadav						Bowler	2 crore
+Tim Southee						Bowler	1.5 crore
+Harshit Rana					Bowler	20 lakh
+Varun Chakravarthy				Bowler	8 Crore
+Anukul Roy						All-Rounder	20 lakh
+Rinku Singh						Batsmen	55 lakh
+Rahmanullah Gurbaz				Batsman/Wicket-keeper	50 lakh
+Shardul Thakur					Bowler	10.75 Crore
+Lockie Ferguson					Bowler	10 Crore
+N Jagadeesan					Batsmen	90 lakh
+Vaibhav Arora					Bowler	60 lakh
+Suyash Sharma					Bowler	20 lakh
+David Wiese						All-Rounder	1 crore
+Kulwant Khejroliya				Bowler	20 lakh
+Litton Das						Wicket-keeper	50 lakh
+Mandeep Singh					Batsmen	50 lakh
+Shakib Al Hasan					All-Rounder	1.5 crore
+
+SRH
+
+Abdul Samad						Batsman	4 Crore
+Umran Malik						Bowler	4 Crore
+Washington Sundar					All-Rounder	8.75 crore
+Rahul Tripathi					Batsman	8.5 crore
+Abhishek Sharma					All-Rounder	6.5 crore
+Kartik Tyagi					Bowler	4 crore
+T Natarajan						Bowler	4 crore
+Bhuvneshwar Kumar					Bowler	4.2 crore
+Aiden Markram					Batsman	2.6 crore
+Marco Jansen					Bowler	4.2 crore
+Glenn Phillips					Batsman/Wicket-keeper	1.5 crore
+Fazalhaq Farooqi					Bowler	50 lakh
+Harry Brook						Batsman	13.25 crore
+Mayank Agarwal					Batsman	8.25 crore
+Heinrich Klaasen					Wicket-keeper	5.25 crore
+Adil Rashid						Bowler	2 crore
+Mayank Markande					Bowler	50 lakh
+Vivrant Sharma					All-Rounder	2.6 crore
+Samarth Vyas					All-Rounder	20 lakh
+Sanvir Singh					All-Rounder	20 lakh
+Upendra Singh Yadav				Wicket-keeper	25 lakh
+Mayank Dagar					Bowler	1.8 crore
+Nitish Kumar Reddy				All-Rounder	20 lakh
+Akeal Hosein					Bowler	1 crore
+Anmolpreet Singh					Batsman	20 lakh
+
+PBKS
+
+Arshdeep Singh					Bowler	4 Crore
+Shikhar Dhawan					Batsman	8.25 crore
+Kagiso Rabada					Bowler	9.25 crore
+Jonny Bairstow					Batsman/Wicket-keeper	6.75 crore
+Shahrukh Khan					All-Rounder	9 crore
+Harpreet Brar					Batsman	3.8 crore
+Prabhsimran Singh					Batsman/Wicket-keeper	60 lakh
+Jitesh Sharma					Batsman/Wicket-keeper	20 lakh
+Rahul Chahar					Bowler	5.25 crore
+Liam Livingstone					All-Rounder	11.5 crore
+Raj Bawa						Batsman	2 crore
+Rishi Dhawan					All-Rounder	55 lakh
+Baltej Dhanda					All-Rounder	20 lakh
+Nathan Ellis					Bowler	75 lakh
+Atharva Taide					All-Rounder	20 lakh
+Bhanuka Rajapaksa					Batsman	50 lakh
+Sam Curran						All-Rounder	18.5 crore
+Sikandar Raza					All-Rounder	50 lakh
+Harpreet Bhatia					Batsman	40 lakh
+Vidwath Kaverappa					Bowler	20 lakh
+Mohit Rathe						All-Rounder	20 lakh
+Shivam Singh					All-Rounder	20 lakh
